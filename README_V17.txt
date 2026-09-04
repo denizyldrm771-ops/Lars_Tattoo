@@ -1,4 +1,4 @@
-APOLLO INK V17 — HESAP & BULUT
+LARS TATTOO V17 — HESAP & BULUT
 
 1) Supabase'te yeni bir proje oluştur.
 2) SQL Editor'a cloud.sql dosyasının tamamını yapıştırıp çalıştır.
