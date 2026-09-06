@@ -1,0 +1,9 @@
+{
+  "name":"Ink Artist Suite — Lars Tattoo",
+  "short_name":"Lars Tattoo",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#F4FAFF",
+  "theme_color":"#F4FAFF",
+  "icons":[{"src":"icon.png","sizes":"192x192","type":"image/png"},{"src":"icon.png","sizes":"512x512","type":"image/png"}]
+}
